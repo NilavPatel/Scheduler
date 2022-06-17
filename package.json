@@ -1,0 +1,6 @@
+{
+    "scripts": {
+        "build": "dotnet build",
+        "run": "dotnet run --project Scheduler.Demo/Scheduler.Demo.csproj"
+    }
+}
